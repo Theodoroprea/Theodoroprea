@@ -23,6 +23,13 @@
 ### :man_technologist: About Me:
 
 I am 4th year computer science student from Canada:
-- I am on the path to become a Full Stack Developer.
+- Currently on the path to become a Full Stack Developer.
 - In my free time I love to go surfing, camping, and learning new technologies.
 - Reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theodor-oprea-7a2a73197/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&logoColor=red)]( https://mail.google.com/mail/u/theodor.alex.oprea@gmail.com) 
+
+---
+
+### :hammer_and_wrench: Languages and Tools:
+
+<div>
+</div>
