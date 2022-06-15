@@ -25,4 +25,4 @@
 I am 4th year computer science student from Canada:
 - I am on the path to become a Full Stack Developer.
 - In my free time I love to go surfing, camping, and learning new technologies.
-- :mailbox:Reach me: ![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&logoColor=red)(theodor.alex.oprea@gmail.com)
+- Reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theodor-oprea-7a2a73197/)
