@@ -5,5 +5,7 @@
   <a href="https://www.linkedin.com/in/theodor-oprea-7a2a73197/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="Linkedin badge"/>
   </a>
+    
+  <img src="https://komarev.com/ghpvc/?username=Theodoroprea"/>
   </div>
 </div>
