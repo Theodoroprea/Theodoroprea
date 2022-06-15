@@ -17,3 +17,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+---
+
+### :man_technologist: About Me:
+
+I am 4th year computer science student from Canada:
+- I am on the path to become a Full Stack Developer.
+- In my free time I love to go surfing, camping, and learning new technologies.
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=flat&logo=Gmail&logoColor=red)]theodor.alex.oprea@gmail.com
