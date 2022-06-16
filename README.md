@@ -48,4 +48,4 @@ I am 4th year computer science student from Canada:
 
 ### :fire: My Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theodoroprea)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theodoroprea&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
