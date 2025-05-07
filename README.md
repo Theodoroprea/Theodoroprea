@@ -22,8 +22,7 @@
 
 ### :man_technologist: About Me:
 
-I am 4th year computer science student from Canada:
-- Currently on the path to become a Full Stack Developer.
+I am Data Engineer from Canada:
 - In my free time I love to go surfing, camping, and learning new technologies.
 - I prefer hands-on learning.
 - Reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/theodor-oprea-7a2a73197/)
